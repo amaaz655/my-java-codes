@@ -1,3 +1,0 @@
-array.class
-multiArray.class
-test.class
